@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695073692 source:d:\desktop\repositorio p-m\calculadora_salario_switch\main.c
+	<stdio.h>
+	<stdlib.h>
+
