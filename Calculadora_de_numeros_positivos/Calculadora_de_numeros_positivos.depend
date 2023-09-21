@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695257938 source:d:\desktop\repositorio p-m\calculadora_de_numeros_positivos\main.c
+	<stdio.h>
+	<stdlib.h>
+
