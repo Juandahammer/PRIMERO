@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695263293 source:d:\desktop\repositorio p-m\calculadora_lanzamientos\main.c
+	<stdio.h>
+	<stdlib.h>
+
