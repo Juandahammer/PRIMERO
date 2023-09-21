@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695260459 source:d:\desktop\repositorio p-m\calculadora_de_cuadrados\main.c
+	<stdio.h>
+	<stdlib.h>
+
